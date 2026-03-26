@@ -51,6 +51,6 @@ def asymmetric_demo(message: str):
 
 
 if __name__ == "__main__":
-    msg = "Hello, secret world!"
+    msg = "You can see me WAIT OH NOOOOO"
     symmetric_demo(msg)
     asymmetric_demo(msg)
